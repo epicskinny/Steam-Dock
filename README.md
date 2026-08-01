@@ -1,7 +1,8 @@
-<img width="680" height="1438" alt="Screenshot 2026-07-31 172828" src="https://github.com/user-attachments/assets/b11084e9-c592-42a1-be74-24174f2401a5" />
-<img width="1649" height="817" alt="Screenshot 2026-07-31 172839" src="https://github.com/user-attachments/assets/c39d7b53-e237-4381-8998-955612cbf672" />
+
 
 Steam Dock
+
+<img width="1649" height="817" alt="Screenshot 2026-07-31 172839" src="https://github.com/user-attachments/assets/c39d7b53-e237-4381-8998-955612cbf672" />
 
 Turn your desktop into a console-inspired gaming hub.
 
@@ -51,7 +52,7 @@ Saved artwork between updates
 Highly Customizable
 
 Personalize Steam Dock to match your setup.
-
+<img width="680" height="1438" alt="Screenshot 2026-07-31 172828" src="https://github.com/user-attachments/assets/b11084e9-c592-42a1-be74-24174f2401a5" />
 Customize:
 
 Color themes
