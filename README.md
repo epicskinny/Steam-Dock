@@ -1,3 +1,5 @@
+![Uploading Screenshot 2026-07-31 172839.png…]()
+<img width="680" height="1438" alt="Screenshot 2026-07-31 172828" src="https://github.com/user-attachments/assets/515a9eb9-d724-4922-b73d-3374e0636628" />
 Steam Dock
 
 Turn your desktop into a console-inspired gaming hub.
